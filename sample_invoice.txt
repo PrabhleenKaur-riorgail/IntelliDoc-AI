@@ -1,0 +1,19 @@
+INVOICE
+Invoice Number: INV-2026-8841
+Invoice Date: 2026-11-20
+Vendor Name: Apex Cloud Solutions Ltd
+Client Name: Mr. Rohan Sharma
+Client Email: rohan.sharma@enterprise.in
+Client Phone: +91-9876543210
+Billing Account: 4532-8910-2234-9901
+
+Line Items:
+Item Description | Quantity | Unit Price | Total
+Azure AI Compute Cluster | 2 | $450.00 | $900.00
+Document Intelligence API Tier | 1 | $150.00 | $150.00
+Content Safety Guardrail Add-on | 1 | $100.00 | $100.00
+
+Subtotal: $1,150.00
+Tax (18% GST): $207.00
+Total Amount Due: $1,357.00
+Payment Status: Approved
